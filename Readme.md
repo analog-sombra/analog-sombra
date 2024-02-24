@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://avatars.githubusercontent.com/u/87383063?v=4" style="border-radius:100px;" />
+  <img width="140" src="./image.png" style="border-radius:100px;" />
   <h2 align="center">Analog Sombra</h2>
   <p align="center">🏆Hey there! 👋 Welcome to my GitHub! I'm the ultimate combo of lazy and genius in the coding world. You'll often find me coding from the comfort of my couch, fueled by coffee and memes. My code? It's a work of art...eventually.
 
