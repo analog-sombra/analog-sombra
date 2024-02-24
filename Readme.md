@@ -29,14 +29,6 @@ Stick around, grab a snack, and join me on my quest to change the world, one laz
 </div>
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=analog-sombra&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true" alt="err" />
-</div>
-
-<div align="center" style="text-align:center;">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=analog-sombra&show_icons=true&theme=tokyonight&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true" alt="err" >
-</div>
-
-<div align="center" style="text-align:center;">
 <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=analog-sombra&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" alt="err"  />
 </div>
 
