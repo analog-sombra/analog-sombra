@@ -1,11 +1,20 @@
-<h1 align="center">Hi There, phoenix here 👋</h1>
+<p align="center">
+  <img width="140" src="https://avatars.githubusercontent.com/u/87383063?v=4" style="border-radius:100px;" />
+  <h2 align="center">Analog Sombra</h2>
+  <p align="center">🏆Hey there! 👋 Welcome to my GitHub! I'm the ultimate combo of lazy and genius in the coding world. You'll often find me coding from the comfort of my couch, fueled by coffee and memes. My code? It's a work of art...eventually.
+
+Stick around, grab a snack, and join me on my quest to change the world, one lazy line of code at a time! 😉✨</p>
+
+</p>
+
+<h1 align="center">Hi There, Analog Sombra here 👋</h1>
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="error" style="object-fit: cover;"/>
+<img width="100%" src="https://imagenwebpro.com/wp-content/uploads/2023/05/0_3.png" alt="error" style="object-fit: cover; border-radius:10px;"/>
 </div>
 
-- 🌱 I’m currently learning **Api Development And Blockchain**
+- 🌱 I’m currently learning **App Development And New Tech**
 
-- 👨‍💻 All of my projects are available at [Phoenix Foxwell](https://github.com/Phoenix-Foxwell)
+- 👨‍💻 All of my projects are available at [Analog Sombra](https://github.com/analog-sombra)
 
 - 💬 Ask me about **App Development and Web Development**
 
@@ -13,40 +22,33 @@
 
 - ⚡ Fun fact **I can learn anything fast, able to write with my both hand**
 
--  📄 Know about my experiences [Phoenix-Foxwell.com](https://phoenixfoxwell.com)
-
+- 📄 Know about my experiences [analogsombra.com](https://analogsombra.com)
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Phoenix-Foxwell&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&column=4&margin-w=5&margin-h=5&no-frame=true" alt="err" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=analog-sombra&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&column=4&margin-w=5&margin-h=5&no-frame=true" alt="err"  />
 </div>
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phoenix-Foxwell&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true" alt="err" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=analog-sombra&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true" alt="err" />
 </div>
-
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Phoenix-Foxwell&show_icons=true&theme=tokyonight&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true" alt="err" >
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=analog-sombra&show_icons=true&theme=tokyonight&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true" alt="err" >
 </div>
-
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=Phoenix-Foxwell&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" alt="err"  />
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=analog-sombra&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" alt="err"  />
 </div>
-
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix-Foxwell&show_icons=true&theme=tokyonight&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true"  alt="err"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analog-sombra&show_icons=true&theme=github_dark&bg_color=000000&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true"  alt="err"/>
 </div>
-
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76118c15820c7154815de9c0f7659eecffc44f43606e&rid=giphy.gif&ct=g" alt="err" />
+<img width="100%" src="./background.jpeg" alt="err" />
 </div>
-
-
-## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me</b>
+<hr/>
+<img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me</b>
 
 [![Discord](https://img.shields.io/badge/-Analog%20Sombra%230371-black?logo=discord&style=for-the-badge)](https://discordapp.com/users/573059559854178315)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:analogsombra@gmail.com)
-
