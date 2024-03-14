@@ -41,8 +41,8 @@ Stick around, grab a snack, and join me on my quest to change the world, one laz
 </div>
 <hr/>
 
-<img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"><b> Know more about me</b>
+<img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"><b> My Social Media</b>
 
 [![Discord](https://img.shields.io/badge/-Analog%20Sombra%230371-black?logo=discord&style=for-the-badge)](https://discord.com/invite/RYxuCAnZvw)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:analogsombra@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@zexalearn)
+[![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@zexalearn)
