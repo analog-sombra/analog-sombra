@@ -41,6 +41,10 @@ Stick around, grab a snack, and join me on my quest to change the world, one laz
 </div>
 <hr/>
 
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analog-sombra&theme=github_dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+
 <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"><b> My Social Media</b>
 
 [![Discord](https://img.shields.io/badge/-Analog%20Sombra%230371-black?logo=discord&style=for-the-badge)](https://discord.com/invite/RYxuCAnZvw)
