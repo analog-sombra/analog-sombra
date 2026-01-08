@@ -83,7 +83,6 @@ const analogSombra = {
 <div align="center" style="text-align:center;">
 <img width="100%" src="./background.jpeg" alt="Analog Sombra Background" />
 </div>
-<hr/>
 
 
 ---
@@ -112,13 +111,12 @@ const analogSombra = {
 <tr>
 <td width="60%" valign="top">
 
-
-| Platform   | Link |
-|-----------|------|
-| 💬 Discord | [![Discord](https://img.shields.io/badge/-Analog%20Sombra%230371-black?logo=discord&style=for-the-badge)](https://discord.com/invite/RYxuCAnZvw) |
-| 📧 Email   | [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:analogsombra@gmail.com) |
-| ▶️ YouTube | [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@zexalearn) |
-| 🌐 Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://analogsombra.com) |
+| Platform     | Link                                                                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💬 Discord   | [![Discord](https://img.shields.io/badge/-Analog%20Sombra%230371-black?logo=discord&style=for-the-badge)](https://discord.com/invite/RYxuCAnZvw) |
+| 📧 Email     | [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:analogsombra@gmail.com)                           |
+| ▶️ YouTube   | [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@zexalearn)      |
+| 🌐 Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://analogsombra.com)                          |
 
 </td>
 
