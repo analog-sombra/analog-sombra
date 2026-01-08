@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Lazy+Coder+%7C+Accidental+Genius+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=analog-sombra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <img align="right" src="profile.png" width="260" style="border-radius:15px;" />
 <p align="center">
