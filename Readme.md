@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi There 👋 I'm Analog Sombra</h1>
 
-<img align="right" src="profile.jpg" width="260" />
+<img align="right" src="profile.jpg" width="260" style="border-radius: 15px;" />
 <p align="center">
 <strong>🏆 Home of lazy ideas and accidentally brilliant code.</strong>
 <br/><br/>
@@ -92,7 +92,7 @@ const analogSombra = {
 </td>
 
 <td width="40%" align="center">
-  <img src="contact.png" width="100%" />
+  <img src="contact.jpg" width="100%" style="border-radius: 15px;" />
 </td>
 </tr>
 </table>
