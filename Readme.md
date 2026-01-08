@@ -1,7 +1,16 @@
 <div align="center" style="text-align:center;">
-<img width="100%" src="./header.png" alt="error" style="object-fit: cover; border-radius:10px;"/>
+<img width="100%" src="./header.png" alt="Analog Sombra Header Banner" style="object-fit: cover; border-radius:10px;"/>
 </div>
+
 <h1 align="center">Hi There 👋 I'm Analog Sombra</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;App+%26+Web+Development+Enthusiast;Lazy+Coder+%7C+Accidental+Genius" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=analog-sombra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <img align="right" src="profile.jpg" width="260" style="border-radius: 15px;" />
 <p align="center">
@@ -51,15 +60,27 @@ const analogSombra = {
 ```
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,cpp,kotlin,react,nextjs,flutter,nodejs,nestjs,prisma,postgres,mysql,git,linux,arch,vim,neovim,vscode,androidstudio" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
   Developer | Builder | Curious Mind
 </p>
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="./background.jpeg" alt="err" />
+<img width="100%" src="./background.jpeg" alt="Analog Sombra Background" />
 </div>
 <hr/>
 
-## GitHub Stats
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=analog-sombra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <table style="border: 0px;"><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=analog-sombra&theme=github_dark&show_icons=true&count_private=true">
@@ -74,6 +95,12 @@ const analogSombra = {
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analog-sombra&theme=react-dark)](https://github.com/analog-sombra/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/analog-sombra/analog-sombra/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"><b> My Social Media</b>
 
