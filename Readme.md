@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=analog-sombra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" src="profile.jpg" width="260" style="border-radius: 15px;" />
+<img align="right" src="profile.jpg" width="260" style="border-radius:15px;" />
 <p align="center">
 <strong>🏆 Home of lazy ideas and accidentally brilliant code.</strong>
 <br/><br/>
@@ -117,6 +117,7 @@ const analogSombra = {
 | 📧 Email     | [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:analogsombra@gmail.com)                           |
 | ▶️ YouTube   | [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@zexalearn)      |
 | 🌐 Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://analogsombra.com)                          |
+| 📱 Play Store | [![Play Store](https://img.shields.io/badge/Play_Store-black?style=for-the-badge&logo=googleplay&logoColor=green)](https://play.google.com/store/apps/developer?id=Analog+Sombra&hl=en_US) |
 
 </td>
 
