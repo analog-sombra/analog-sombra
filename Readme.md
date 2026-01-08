@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=analog-sombra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" src="profile.jpg" width="260" style="border-radius:15px;" />
+<img align="right" src="profile.png" width="260" style="border-radius:15px;" />
 <p align="center">
 <strong>🏆 Home of lazy ideas and accidentally brilliant code.</strong>
 <br/><br/>
