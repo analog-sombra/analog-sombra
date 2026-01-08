@@ -3,6 +3,7 @@
 </div>
 <h1 align="center">Hi There 👋 I'm Analog Sombra</h1>
 
+<img align="right" src="profile.jpg" width="260" />
 <p align="center">
 <strong>🏆 Home of lazy ideas and accidentally brilliant code.</strong>
 <br/><br/>
@@ -76,9 +77,11 @@ const analogSombra = {
 
 <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"><b> My Social Media</b>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+
 | Platform   | Link |
 |-----------|------|
 | 💬 Discord | [![Discord](https://img.shields.io/badge/-Analog%20Sombra%230371-black?logo=discord&style=for-the-badge)](https://discord.com/invite/RYxuCAnZvw) |
@@ -86,11 +89,10 @@ const analogSombra = {
 | ▶️ YouTube | [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@zexalearn) |
 | 🌐 Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://analogsombra.com) |
 
-  </td>
-  <td width="45%" align="center">
+</td>
 
-<img src="contact.png" alt="Contact Illustration" width="100%" />
-
-  </td>
-  </tr>
+<td width="40%" align="center">
+  <img src="contact.png" width="100%" />
+</td>
+</tr>
 </table>
