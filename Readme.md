@@ -5,7 +5,7 @@
 <h1 align="center">Hi There 👋 I'm Analog Sombra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;App+%26+Web+Development+Enthusiast;Lazy+Coder+%7C+Accidental+Genius" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Lazy+Coder+%7C+Accidental+Genius+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,6 +36,19 @@ Stick around, grab a snack 🍿, and join me on my quest to change the world —
 - 💬 Ask me about **App Dev, Web Dev, or why my code works**
 - 📫 Reach me at **analogsombra@gmail.com**
 - ⚡ Fun fact: **Fast learner, ambidextrous, still lazy**
+
+---
+
+### 💻 What I'm Working On
+
+```typescript
+const currentFocus = {
+  🔨 building: "Next-gen web applications with React & Next.js",
+  📱 exploring: "Cross-platform mobile apps with Flutter",
+  🦀 learning: "Systems programming with Rust",
+  🎯 goal: "Building products that solve real problems (lazily)"
+};
+```
 
 ---
 
@@ -72,11 +85,6 @@ const analogSombra = {
 </div>
 <hr/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=analog-sombra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -91,14 +99,10 @@ const analogSombra = {
 ### 📈 Activity Graph:
 
 <div align="center" style="text-align:center;">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analog-sombra&show_icons=true&theme=github_dark&bg_color=000000&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true"  alt="err"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analog-sombra&show_icons=true&theme=github_dark&bg_color=000000&text_color=a4bld0&border_radius=0&hide_border=true&include_all_commits=true"  alt="GitHub Profile Summary"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analog-sombra&theme=react-dark)](https://github.com/analog-sombra/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/analog-sombra/analog-sombra/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
